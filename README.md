@@ -1,4 +1,3 @@
-# Curso Digital: GIT
+# Curso Digital: GIT/Versionamento
 
-## Gravando mudançs no repositório# ADA
-### Teste de Commit
+# Salvando as modificações no Git
