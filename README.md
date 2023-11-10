@@ -3,7 +3,7 @@
 ## Salvando as modificações no Git
 * uso do comando git restore
 
-#Commit
+### Commit
 
 * git add ./nome do arquivo {adiciona o arquivo para a área de envio}
 * git commit -m 'mensagem do git' {prepara o aqrquivo pra enviar para o repositório}
