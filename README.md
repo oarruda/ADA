@@ -10,5 +10,10 @@
 * git push {envia o commit para o repositório}
 
 ## Comando GIT Pull
-### Teste
+*git pull puxa todos os commmits enviado para a branch que estamos
+
+## Criando nova branch
+
+### Para criar um nova branch basta usar o comand git branch nome da branch nova
+
 
